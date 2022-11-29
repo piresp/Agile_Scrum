@@ -1,1 +1,83 @@
 # Agile_Scrum
+
+### AGILE MANIFESTO
+
+#### 4 VALUES
+
+Individuals and Interactions ==> Processes and tools  
+Working Software ==> Comprehensive documentation  
+Customer collaboration ==> Contract negotiation  
+Responding to change ==> Following a plan  
+
+#### 12 PRINCIPLES
+
+1 - Satisfy the customer as a priority  
+2 - Welcoming changes  
+3 - Frequent and functional delivery  
+4 - Collaborate daily with the client  
+5 - Support teams and thrust  
+6 - Dialog face to face  
+7 - Measure progress with a functional product  
+8 - Adopt a regular and sustainable pace  
+9 - Support technical excellence  
+10 - Make it Simple ( Keep It Simple Stupid )    
+11 - Have a self organized team  
+12 - Continuous improvement  
+
+
+### AGILE MINDSET
+
+#### AGILE PYRAMID
+
+1 – Agile mindset  
+2 – the 4 values  
+3 – the 12 principles  
+4 – methodologies  
+5 – Practices  
+
+#### WHY CHOSE AGILITY?
+
+1 – faster delivery  
+2 – better ability to manage changing priorities  
+3 – Increase productivity  
+4 – Improve alignment between other departments and the IT department  
+5 – Enhance software quality   
+
+
+### PROJECT MANAGEMENT
+
+#### THE PRODUCT OWNER  
+He participates in the development of needs and carries the customer’s vision of the final product.  
+-	He is the voice of customers  
+-	His hole is to maximize the value the Scrum team brings to the product in each sprint  
+-	He is in charge of creating the product backlog, prioritizing it and keeping it up to date  
+-	He ensures the collaboration with stakeholders like the client  
+
+#### THE SCRUM MASTER
+The SM can be seen as a coach who helps the Scrum team and the organization understand scrum theory and put it into practice.  
+-	He ensures that the scrum events take place and are productive   
+-	He helps the team to self-organize  
+-	He helps remove obstacles  
+-	He protects the team  
+
+#### THE DEVELOPERS
+They are committed to performing the tasks necessary to add value to the product each Sprint  
+- Creating an action plan to achieve the sprint goal  
+- Ensuring quality delivery according to standards defined by the team  
+- Reviewing and adjusting their plan every day  
+- Holding each other accountable and demonstrating professionalism  
+
+
+### CHACARCTERISTICS OF A SCRUM TEAM
+- There is no hierarchy within the scrum team  
+- There is no sub-team within the scrum team  
+
+#### MULTIDISCIPLINARY
+- It has all the skills necessary for the accomplishment of the project  
+
+#### SELF-MANAGED
+- It decides internally who does what, when and how  
+
+#### THE SIZE OF THE TEAM
+- It is recommended not to exceed 10 people in the team  
+
