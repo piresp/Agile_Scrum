@@ -1,6 +1,4 @@
-# Agile_Scrum
-
-# SCRUM
+# Agile / Scrum Course
 
 ## DAILY
 
