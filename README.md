@@ -1,6 +1,53 @@
 # Agile_Scrum
 
-### AGILE MANIFESTO
+# SCRUM
+
+## DAILY
+
+#### 3 QUESTIONS TO ANSWER
+- What did I do yesterday?
+- What I'm going to do today?
+- What is blocking me?
+
+
+## SPRINT RETROSPECTIVE
+
+#### 3 QUESTIONS TO ANSWER
+- What went well?
+- What went wrong?
+- What can be improved?
+
+
+## REFINING BACKLOG
+
+### HOW TO WRITE A USER STORY
+
+#### 1. AN EXPLICIT TITLE
+Viewing the list of favorites.
+
+#### 2. SIMPLE SENTENSE THAT DESCRIBES A FUNCTIONAL REQUEST FROM THE POINT OF VIEW OF A KEY USER
+- As [ User / Role ]
+- I want [ Action / Functionality ]
+- So that [ Goal / Benefit ]
+
+**Example:**  
+  
+ **As** a customer,  
+ **I** want to be able to display my favorite list,  
+ **so** that I can place my order.  
+ 
+ #### 3. ACCEPTANCE CRITERIA
+ - Given [ Precondition ]
+ - When [ Trigger event ]
+ - Then [ Expected results ]
+ 
+ **Example:**  
+   
+  **Given** that i have saved 2 different products in my favorites list,    
+  **when** I click on the "Show my favorites list" button,    
+  **then** I see the list of the 2 saved products.  
+
+## AGILE MANIFESTO
 
 #### 4 VALUES
 
@@ -25,7 +72,7 @@ Responding to change ==> Following a plan
 12 - Continuous improvement  
 
 
-### AGILE MINDSET
+## AGILE MINDSET
 
 #### AGILE PYRAMID
 
@@ -44,7 +91,7 @@ Responding to change ==> Following a plan
 5 – Enhance software quality   
 
 
-### PROJECT MANAGEMENT
+## PROJECT MANAGEMENT
 
 #### THE PRODUCT OWNER  
 He participates in the development of needs and carries the customer’s vision of the final product.  
@@ -68,7 +115,7 @@ They are committed to performing the tasks necessary to add value to the product
 - Holding each other accountable and demonstrating professionalism  
 
 
-### CHACARCTERISTICS OF A SCRUM TEAM
+## CHACARCTERISTICS OF A SCRUM TEAM
 - There is no hierarchy within the scrum team  
 - There is no sub-team within the scrum team  
 
@@ -81,3 +128,21 @@ They are committed to performing the tasks necessary to add value to the product
 #### THE SIZE OF THE TEAM
 - It is recommended not to exceed 10 people in the team  
 
+# KANBAN
+
+## CORES
+
+#### 4 PRINCIPLES
+
+1 - start with what you do now  
+2 - agree to pursue evolutionary change  
+3 - respect the current process  
+4 - encourage acts of leadership at all levels  
+
+#### 5 PRACTICIES
+
+1 - Visualize the work  
+2 - Limit the number of tasks in progress  
+3 - Measure and manage progess  
+4 - Establish clear and explicit rules  
+5 - Recognize opportunities for improvement  
